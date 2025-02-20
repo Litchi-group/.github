@@ -1,31 +1,33 @@
-# Litchi
+# 릿치 (Litchi)
 
-Welcome to the official GitHub page for **Litchi** – where technology meets innovation. We’re dedicated to connecting IT with people to drive transformative change across industries.
+안녕하세요! **릿치**의 GitHub 페이지에 오신 것을 환영합니다.  
+저희는 IT와 사람을 연결하여 혁신적인 변화를 이끌어내는 것을 목표로 하는 회사입니다.
 
 ---
 
-## About Litchi
+## 회사 소개
 
 **Reach · Connect · Change IT**  
-At Litchi, our mission is clear: to create innovative solutions that empower our clients and change the world through technology. With a proven track record in a diverse range of projects—from smart shared umbrella services to website maintenance for major forums—we thrive on delivering excellence and value.
+릿치는 고객과 함께 다양한 프로젝트를 통해 새로운 가치를 창출하고, 기술로 세상을 변화시키고자 합니다.  
+저희는 스마트 공유 우산 서비스 개발, 제주국제크루즈포럼 웹사이트 유지보수, 제주경제통상진흥원 이제주몰 유지보수 등 여러 분야에서 경험과 전문성을 쌓아왔습니다.
 
-Learn more about our story on our [official website](https://litchi.co.kr/).
+더 자세한 내용은 [공식 홈페이지](https://litchi.co.kr/)에서 확인하실 수 있습니다.
 
 ---
 
-## Our Services & Expertise
+## 서비스 및 전문 영역
 
-### Software Quality Testing
-- Comprehensive testing services that ensure your software is reliable and robust.
+### 소프트웨어 품질 테스트
+- 체계적이고 포괄적인 품질 테스트를 통해 소프트웨어의 안정성과 신뢰성을 보장합니다.
 
-### Web Development (PC/Mobile)
-- Custom solutions that cater to the unique needs of various industries.
+### PC/Mobile 웹사이트 개발
+- 다양한 산업 분야에서 사용자 요구를 반영한 맞춤형 웹/모바일 솔루션을 제공합니다.
 
-### Mobile Application Development
-- Intuitive, high-performance apps designed with the user in mind.
+### 모바일 애플리케이션 개발
+- 사용자 친화적인 인터페이스와 최적의 성능을 갖춘 애플리케이션을 개발합니다.
 
-### Cutting-edge Technologies
-Our team leverages modern tech stacks to create tailored solutions:
+### 최신 기술 스택
+저희 팀은 고객 맞춤형 서비스를 위해 다음과 같은 최신 기술들을 활용하고 있습니다:
 - **GraphQL**
 - **Next.js**
 - **SvelteKit**
@@ -34,44 +36,48 @@ Our team leverages modern tech stacks to create tailored solutions:
 
 ---
 
-## Featured Projects
+## 주요 프로젝트
 
 - **스마트 공유 우산 서비스 개발**  
-  Innovative service development for smart, shared umbrella solutions.
-  
+  혁신적인 스마트 공유 우산 서비스 개발 프로젝트
+
 - **2024 제주국제크루즈포럼 웹사이트 유지보수**  
-  Ongoing maintenance and enhancement of the official website for the Jeju International Cruise Forum 2024.
-  
+  제주국제크루즈포럼 공식 웹사이트의 지속적인 유지보수 및 업데이트
+
 - **제주경제통상진흥원 이제주몰 유지보수**  
-  Sustained support and upgrades for the Jeju Economic & Trade Promotion Agency’s Ejeju Mall.
+  제주경제통상진흥원 이제주몰의 안정적인 운영을 위한 유지보수
+
+- **2024 초기창업패키지 선정**  
+  소규모 스마트 HACCP MES 시스템 구축 프로젝트
 
 ---
 
-## Community & Collaboration
+## 커뮤니티 및 협업
 
-We believe in the power of collaboration and community involvement. Whether you’re interested in contributing to our projects, exploring partnership opportunities, or simply want to learn more about our work, we welcome your engagement.
+저희 릿치는 협업과 커뮤니티 참여를 중요시합니다.  
+프로젝트 기여, 파트너십 제안, 혹은 단순히 회사에 대해 더 알아보고 싶으시다면 언제든지 환영합니다.
 
-- **Contribution Guidelines:**  
-  Check our repository issues and project boards to find out how you can contribute.
-  
-- **Useful Resources:**  
-  For documentation, project overviews, and other resources, please refer to the links on our [website](https://litchi.co.kr/).
+- **기여 가이드라인:**  
+  GitHub 이슈와 프로젝트 보드를 확인하시고, 함께 성장할 수 있는 기회를 찾아보세요.
 
-- **Fun Fact:**  
-  We’re as passionate about technology as we are about sharing ideas—our team often finds that brainstorming sessions over breakfast spark our best innovations!
+- **유용한 자료:**  
+  공식 홈페이지와 문서들을 통해 릿치의 서비스와 프로젝트에 관한 자세한 정보를 얻으실 수 있습니다.
+
+- **작은 재미:**  
+  저희 팀은 기술과 아이디어를 공유하는 것만큼 아침 식사를 통한 활기찬 브레인스토밍도 즐깁니다!
 
 ---
 
-## Contact Us
+## 문의하기
 
-Have questions or want to work together? Reach out to us:
+궁금한 사항이나 협업 제안이 있으시면 아래 연락처로 문의해 주세요.
 
-- **Address:**  
+- **주소:**  
   제주특별자치도 제주시 진군남 4길 5, 2층 (장애인기업종합지원센터, 노형동)
-- **Telephone:** 064-745-0127  
-- **Email:** [admin@litchi.co.kr](mailto:admin@litchi.co.kr)
+- **전화:** 064-745-0127
+- **이메일:** [admin@litchi.co.kr](mailto:admin@litchi.co.kr)
 
-For more details about our services, history, or any inquiries, please visit our [official website](https://litchi.co.kr/).
+더 자세한 정보는 [공식 홈페이지](https://litchi.co.kr/)에서 확인하실 수 있습니다.
 
 ---
 
